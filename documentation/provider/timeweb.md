@@ -63,8 +63,13 @@ unless `dnsconfig.js` has them.
 - Records that were written on a name without a subdomain object (for example
   by hand in the panel) are found only while that name is in `dnsconfig.js`.
   The provider prints a warning for them.
-- Timeweb answers for `www` with records of its own unless `www` has records in
-  the zone.
+- Timeweb fills in records of its own for types a name does not have, and the
+  API does not list them, so neither `preview` nor `get-zones` shows them: with
+  no MX in the zone the apex answers with `mx1/mx2.timeweb.ru` (a null MX,
+  `0 .`, is refused), and a name that has records but no TXT answers with
+  `v=spf1 include:_spf.timeweb.ru ~all`. Give such names a TXT of their own
+  (for example `v=spf1 -all`) when Timeweb's mail servers must not send as
+  them. `www` answers with the apex records unless it has records of its own.
 - A domain added to Timeweb is served by its name servers only after a delay
   (about 40 minutes was observed).
 
