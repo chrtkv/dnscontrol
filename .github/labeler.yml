@@ -211,6 +211,9 @@ provider-SPACESHIP:
 provider-TENCENTDNS:
   - changed-files:
       - any-glob-to-any-file: providers/tencentdns/**
+provider-TIMEWEB:
+  - changed-files:
+      - any-glob-to-any-file: providers/timeweb/**
 provider-TRANSIP:
   - changed-files:
       - any-glob-to-any-file: providers/transip/**

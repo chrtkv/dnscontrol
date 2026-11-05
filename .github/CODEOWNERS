@@ -69,6 +69,7 @@ providers/scaleway @alessiopcc
 # providers/softlayer NEEDS VOLUNTEER
 providers/spaceship @rootful
 providers/tencentdns @cylonchau
+providers/timeweb @chrtkv
 providers/transip @blackshadev
 providers/unifi @zupolgec
 providers/vercel @SukkaW

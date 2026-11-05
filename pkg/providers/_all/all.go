@@ -78,6 +78,7 @@ import (
 	_ "github.com/DNSControl/dnscontrol/v5/providers/softlayer"
 	_ "github.com/DNSControl/dnscontrol/v5/providers/spaceship"
 	_ "github.com/DNSControl/dnscontrol/v5/providers/tencentdns"
+	_ "github.com/DNSControl/dnscontrol/v5/providers/timeweb"
 	_ "github.com/DNSControl/dnscontrol/v5/providers/transip"
 	_ "github.com/DNSControl/dnscontrol/v5/providers/unifi"
 	_ "github.com/DNSControl/dnscontrol/v5/providers/vercel"

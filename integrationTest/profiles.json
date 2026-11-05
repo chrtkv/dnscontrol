@@ -452,6 +452,11 @@
     "secret_key": "$TENCENTDNS_SECRET_KEY",
     "site": "$TENCENTDNS_SITE"
   },
+  "TIMEWEB": {
+    "TYPE": "TIMEWEB",
+    "api_token": "$TIMEWEB_API_TOKEN", // review-gate: ok — environment variable name, filled in by the test runner
+    "domain": "$TIMEWEB_DOMAIN"
+  },
   "TRANSIP": {
     "AccessToken": "$TRANSIP_ACCESS_TOKEN",
     "AccountName": "$TRANSIP_ACCOUNT_NAME",

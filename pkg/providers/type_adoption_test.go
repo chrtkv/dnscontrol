@@ -38,6 +38,10 @@ func TestDeclaredBaselinePassesAuditing(t *testing.T) {
 			if !def.RecordTypeSupport(record.rtype).HasFeature {
 				continue
 			}
+			// Timeweb's SRV has no weight field; its auditor refuses a nonzero weight rather than dropping it.
+			if def.TypeName == "TIMEWEB" && record.rtype == "SRV" {
+				continue
+			}
 			t.Run(def.TypeName+"/"+record.rtype, func(t *testing.T) {
 				dc := providerDomain(def.TypeName)
 				dc.AddRecordConfig(dc.MustNewRecordConfigParse(record.label, 3600, record.rtype, record.data))

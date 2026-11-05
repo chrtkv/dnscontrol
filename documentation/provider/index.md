@@ -94,6 +94,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ❌ | ✅ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ❌ | ✅ | ✅ |
 | [`TENCENTDNS`](tencentdns.md) | ❌ | ✅ | ✅ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ✅ | ❌ |
 | [`TRANSIP`](transip.md) | ❌ | ✅ | ❌ |
 | [`UNIFI`](unifi.md) | ❌ | ✅ | ❌ |
 | [`VERCEL`](vercel.md) | ❌ | ✅ | ❌ |
@@ -177,6 +178,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ✅ | ✅ | ❌ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ✅ | ❌ | ❌ | ✅ |
 | [`TENCENTDNS`](tencentdns.md) | ✅ | ✅ | ✅ | ✅ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ❌ | ✅ | ✅ |
 | [`TRANSIP`](transip.md) | ✅ | ❌ | ❌ | ✅ |
 | [`UNIFI`](unifi.md) | ❌ | ✅ | ❌ | ❌ |
 | [`VERCEL`](vercel.md) | ✅ | ❌ | ❌ | ❌ |
@@ -260,6 +262,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
 | [`TENCENTDNS`](tencentdns.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`TRANSIP`](transip.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`UNIFI`](unifi.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`VERCEL`](vercel.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -343,6 +346,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ❌ | ❌ | ✅ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ❌ | ❌ | ✅ | ✅ |
 | [`TENCENTDNS`](tencentdns.md) | ❌ | ❌ | ✅ | ❌ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ❌ | ✅ | ❌ |
 | [`TRANSIP`](transip.md) | ❌ | ✅ | ✅ | ❌ |
 | [`UNIFI`](unifi.md) | ❌ | ❌ | ✅ | ❌ |
 | [`VERCEL`](vercel.md) | ❌ | ❌ | ✅ | ❌ |
@@ -426,6 +430,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
 | [`TENCENTDNS`](tencentdns.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`TRANSIP`](transip.md) | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
 | [`UNIFI`](unifi.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [`VERCEL`](vercel.md) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -509,6 +514,7 @@ Jump to a table:
 | [`SOFTLAYER`](softlayer.md) | ❌ | ❌ | ❌ |
 | [`SPACESHIP`](spaceship.md) | ❌ | ❌ | ❌ |
 | [`TENCENTDNS`](tencentdns.md) | ❌ | ❌ | ❌ |
+| [`TIMEWEB`](timeweb.md) | ❌ | ❌ | ❌ |
 | [`TRANSIP`](transip.md) | ❌ | ❌ | ❌ |
 | [`UNIFI`](unifi.md) | ❌ | ❌ | ❌ |
 | [`VERCEL`](vercel.md) | ❌ | ❌ | ❌ |
